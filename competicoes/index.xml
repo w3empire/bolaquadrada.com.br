@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notícias Sobre as Principais Competições de Futebol do Brasil on Bola Quadrada</title>
+    <link>https://bolaquadrada.com.br/competicoes/</link>
+    <description>Recent content in Notícias Sobre as Principais Competições de Futebol do Brasil on Bola Quadrada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Thu, 03 Oct 2024 20:03:07 -0300</lastBuildDate><atom:link href="https://bolaquadrada.com.br/competicoes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>copa-do-brasil</title>
+      <link>https://bolaquadrada.com.br/competicoes/copa-do-brasil/</link>
+      <pubDate>Thu, 03 Oct 2024 20:03:07 -0300</pubDate>
+      
+      <guid>https://bolaquadrada.com.br/competicoes/copa-do-brasil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brasileirao-serie-a</title>
+      <link>https://bolaquadrada.com.br/competicoes/brasileirao-serie-a/</link>
+      <pubDate>Thu, 03 Oct 2024 19:51:31 -0300</pubDate>
+      
+      <guid>https://bolaquadrada.com.br/competicoes/brasileirao-serie-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

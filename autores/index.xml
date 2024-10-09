@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autores on Bola Quadrada</title>
+    <link>https://bolaquadrada.com.br/autores/</link>
+    <description>Recent content in Autores on Bola Quadrada</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language><atom:link href="https://bolaquadrada.com.br/autores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diego Ribeiro no site Bola Quadrada</title>
+      <link>https://bolaquadrada.com.br/autores/diego-ribeiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolaquadrada.com.br/autores/diego-ribeiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Martins no site Bola Quadrada</title>
+      <link>https://bolaquadrada.com.br/autores/gustavo-martins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolaquadrada.com.br/autores/gustavo-martins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinícius Araújo no site Bola Quadrada</title>
+      <link>https://bolaquadrada.com.br/autores/vinicius-araujo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bolaquadrada.com.br/autores/vinicius-araujo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
